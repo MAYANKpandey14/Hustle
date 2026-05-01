@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "4e8f7871fbc92dae",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c54ce526f22800c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e53ae53333f1dfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sales Resources/Improving Sales with Human Psychology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Improving Sales with Human Psychology"
+            }
+          },
+          {
+            "id": "4a89cd5b90c9cade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geopolitics/Pakistan blackmailing US due to American Tactical Nuclear presence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pakistan blackmailing US due to American Tactical Nuclear presence"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b453f945cfc4415c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d74f295534411a11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f3fff7bfefa1b17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3dad7c060650c984",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b7597074a0961e56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09dda49e992ebb15",
+    "type": "split",
+    "children": [
+      {
+        "id": "c854163185ff40af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acce2c9eeceb6b6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geopolitics/Pakistan blackmailing US due to American Tactical Nuclear presence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pakistan blackmailing US due to American Tactical Nuclear presence"
+            }
+          },
+          {
+            "id": "f3f8ff2d2d7bde5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SSB Resources/Personal Interview Prep.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Personal Interview Prep"
+            }
+          },
+          {
+            "id": "651c9732c985fbed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1f2d1c09cec7d86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SSB Resources/Personal Interview Prep.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Personal Interview Prep"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a89cd5b90c9cade",
+  "lastOpenFiles": [
+    "Sales Resources/Improving Sales with Human Psychology.md",
+    "Geopolitics/Pakistan blackmailing US due to American Tactical Nuclear presence.md",
+    "Geopolitics",
+    "German",
+    "SSB Resources/Personal Interview Prep.md",
+    "Sales Resources/The Sales Conversation Guide.pdf",
+    "SSB Resources",
+    "Cyber Security Notes/Untitled.md",
+    "Cyber Security Notes",
+    "Sales Resources/Untitled",
+    "Welcome.md",
+    "Sales Resources"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "tolaria": {
+      "command": "C:\\nvm4w\\nodejs\\node.exe",
+      "args": [
+        "C:\\Users\\mayan\\AppData\\Local\\Tolaria\\mcp-server\\index.js"
+      ],
+      "env": {
+        "VAULT_PATH": "D:\\Hustle",
+        "WS_UI_PORT": "9711"
+      }
+    }
+  }
+}
