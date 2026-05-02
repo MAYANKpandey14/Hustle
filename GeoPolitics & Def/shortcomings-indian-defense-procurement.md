@@ -1,5 +1,6 @@
 ---
-type: Note
+type: Geopolitics-Research
+_width: normal
 status: Active
 tags: [defence, india, procurement, bureaucracy, strategy, policy]
 ---
