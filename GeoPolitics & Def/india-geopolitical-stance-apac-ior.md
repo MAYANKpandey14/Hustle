@@ -1,7 +1,7 @@
 ---
 type: Geopolitics-Research
 status: Active
-tags: [geopolitics, india, apac, ior, strategy]\
+tags: [geopolitics, india, apac, ior, strategy]
 _organized: true
 Date: 2026-05-01
 _icon: boat

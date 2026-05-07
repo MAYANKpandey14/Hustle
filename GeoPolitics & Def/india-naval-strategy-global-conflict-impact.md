@@ -1,7 +1,7 @@
 ---
 type: Geopolitics-Research
 status: Active
-tags: [geopolitics, india, ior, navy, economy, strategy]\
+tags: [geopolitics, india, ior, navy, economy, strategy]
 related_to: "[[india-geopolitical-stance-apac-ior]]"
 _width: normal
 _organized: true

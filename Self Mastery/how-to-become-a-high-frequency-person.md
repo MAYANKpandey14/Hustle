@@ -7,7 +7,7 @@ _icon: vinyl-record
 URL: "https://www.youtube.com/watch?v=SbtAoxR5SuM"
 _width: normal
 type: Self Improvement
-belongs_to: "[[D:\Hustle\self-improvement]]"
+belongs_to: "[[self-improvement]]"
 ---
 # *How to Become a High Frequency Person*
 

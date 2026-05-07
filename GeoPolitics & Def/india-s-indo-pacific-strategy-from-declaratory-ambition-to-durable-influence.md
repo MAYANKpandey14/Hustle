@@ -7,8 +7,8 @@ Date: 2026-05-01
 _icon: boat
 _width: normal
 related_to:
-  - "[[D:\Hustle\Geopolitics\india-geopolitical-stance-apac-ior]]"
-  - "[[D:\Hustle\india-s-indo-pacific-strategy-from-declaratory-ambition-to-durable-influence]]"
+  - "[[india-geopolitical-stance-apac-ior]]"
+  - "[[india-s-indo-pacific-strategy-from-declaratory-ambition-to-durable-influence]]"
 ---
 # India’s Indo-Pacific Strategy: From Declaratory Ambition to Durable Influence
 
@@ -38,8 +38,8 @@ In April 2019, the MEA created a dedicated Indo-Pacific Division, and in Novembe
 
 ### Analysis
 
-This evolution shows that India did not adopt the Indo-Pacific as a borrowed slogan; it adapted the concept to preserve strategic autonomy while widening its theater of action from the eastern coast of Africa to the western Pacific. [rusi](https://www.rusi.org/explore-our-research/publications/policy-briefs/indo-pacific-indian-foreign-policy)\
-\
+This evolution shows that India did not adopt the Indo-Pacific as a borrowed slogan; it adapted the concept to preserve strategic autonomy while widening its theater of action from the eastern coast of Africa to the western Pacific. [rusi](https://www.rusi.org/explore-our-research/publications/policy-briefs/indo-pacific-indian-foreign-policy)
+
 The resulting doctrine is deliberately dual-use: it reassures Southeast Asia through inclusive language while signaling to major powers that India intends to shape rules, connectivity standards, and maritime order. [cuts-global](https://cuts-global.org/pdf/briefing-paper-5-Indias-indo-pacific-strategy-strengthening-partnerships-and-navigating-challenges.pdf)
 
 ### Uncertainties
