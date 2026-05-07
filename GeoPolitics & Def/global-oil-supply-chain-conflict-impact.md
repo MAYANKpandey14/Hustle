@@ -1,11 +1,16 @@
 ---
 type: Geopolitics-Research
 status: Active
-tags: [geopolitics, oil, supply-chain, conflict, russia, middle-east, economy]
+tags:
+  - geopolitics
+  - oil
+  - supply-chain
+  - conflict
+  - russia
+  - middle-east
+  - economy
 related_to: "[[india-naval-strategy-global-conflict-impact]]"
 Date: 2026-05-01
-_icon: boat
-_width: normal
 ---
 
 # The Impact of Global Conflicts on the Crude Oil Supply Chain (2024–2026)

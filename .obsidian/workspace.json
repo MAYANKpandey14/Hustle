@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1c54ce526f22800c",
+        "id": "097f902b7a690212",
         "type": "tabs",
         "children": [
           {
-            "id": "2e53ae53333f1dfc",
+            "id": "f09b9e5ff90b202e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sales Resources/Improving Sales with Human Psychology.md",
-                "mode": "source",
+                "file": "Self Mastery/how-to-become-a-high-frequency-person.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Improving Sales with Human Psychology"
-            }
-          },
-          {
-            "id": "4a89cd5b90c9cade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geopolitics/Pakistan blackmailing US due to American Tactical Nuclear presence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pakistan blackmailing US due to American Tactical Nuclear presence"
+              "title": "how-to-become-a-high-frequency-person"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geopolitics/Pakistan blackmailing US due to American Tactical Nuclear presence.md",
+                "file": "GeoPolitics & Def/2026 Indo Pak US Pivot Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pakistan blackmailing US due to American Tactical Nuclear presence"
+              "title": "Backlinks for 2026 Indo Pak US Pivot Analysis"
             }
           },
           {
@@ -155,42 +140,110 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSB Resources/Personal Interview Prep.md"
+                "file": "GeoPolitics & Def/2026 Indo Pak US Pivot Analysis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Personal Interview Prep"
+              "title": "Outline of 2026 Indo Pak US Pivot Analysis"
+            }
+          },
+          {
+            "id": "36e70c157530a824",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e12a84cfaf4d8601",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "c763d72f5a8489d8",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Agent Mode"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "terminal:Open terminal": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "4a89cd5b90c9cade",
+  "active": "f09b9e5ff90b202e",
   "lastOpenFiles": [
+    "Self Mastery/how-to-become-a-high-frequency-person.md",
+    "gemini-scribe/Agent-Sessions/Agent Session 2026-05-07.md",
+    "GeoPolitics & Def/The Tripwire Strategy - US Presence and Pakistan Blackmail.md",
+    "gemini-scribe/AGENTS.md",
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Agent-Sessions/2026-05-04 US-Pakistan Nuclear Tripwire Strategy.md",
+    "GeoPolitics & Def/2026 Indo Pak US Pivot Analysis.md",
+    "GeoPolitics & Def/global-oil-supply-chain-conflict-impact.md",
+    "GeoPolitics & Def/Pakistan blackmailing US due to American Tactical Nuclear presence.md",
+    "GeoPolitics & Def/Shortcomings of Indian Defense Procurement.md",
+    "GeoPolitics & Def/india-s-indo-pacific-strategy-from-declaratory-ambition-to-durable-influence.md",
+    "GeoPolitics & Def/india-naval-strategy-global-conflict-impact.md",
+    "GeoPolitics & Def/india-geopolitical-stance-apac-ior.md",
+    "Excalidraw/Drawing 2026-05-04 00.19.55.excalidraw.md",
+    "Excalidraw",
+    "Untitled Kanban.md",
+    "WikiLinks.md",
+    "gemini-scribe/example-prompts.json",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe",
+    "Untitled.base",
+    "2026-05-04.md",
+    "Untitled.canvas",
+    "Untitled 1.base",
+    "self-improvement.md",
     "Sales Resources/Improving Sales with Human Psychology.md",
-    "Geopolitics/Pakistan blackmailing US due to American Tactical Nuclear presence.md",
-    "Geopolitics",
-    "German",
-    "SSB Resources/Personal Interview Prep.md",
     "Sales Resources/The Sales Conversation Guide.pdf",
-    "SSB Resources",
-    "Cyber Security Notes/Untitled.md",
-    "Cyber Security Notes",
-    "Sales Resources/Untitled",
-    "Welcome.md",
-    "Sales Resources"
+    "AGENTS.md",
+    "CLAUDE.md",
+    "software-fundamentals-matter-more-than-ever.md",
+    "software-engineering.md",
+    "geopolitics-research.md",
+    "GEMINI.md",
+    "code-review-skill.md",
+    "Geopolitics"
   ]
 }

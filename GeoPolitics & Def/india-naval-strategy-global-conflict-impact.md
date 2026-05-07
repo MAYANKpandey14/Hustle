@@ -1,12 +1,15 @@
 ---
 type: Geopolitics-Research
 status: Active
-tags: [geopolitics, india, ior, navy, economy, strategy]
+tags:
+  - geopolitics
+  - india
+  - ior
+  - navy
+  - economy
+  - strategy
 related_to: "[[india-geopolitical-stance-apac-ior]]"
-_width: normal
-_organized: true
 Date: 2026-05-01
-_icon: boat
 ---
 # India's Naval Strategy and Global Conflict Impact (2024–2026)
 

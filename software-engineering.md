@@ -1,5 +1,0 @@
----
-type: Type
----
-
-# Software Engineering

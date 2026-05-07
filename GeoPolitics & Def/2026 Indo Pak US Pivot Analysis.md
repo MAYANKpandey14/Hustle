@@ -1,7 +1,13 @@
 ---
 type: Geopolitics-Research
 status: Active
-tags: [geopolitics, india, pakistan, usa, nuclear, conflict, 2026]
+tags:
+  - geopolitics
+  - india
+  - pakistan
+  - usa
+  - nuclear
+  - conflict
 related_to: "[[Pakistan blackmailing US due to American Tactical Nuclear presence]]"
 ---
 # The 2026 Indo-Pak Escalation: The Sudden US Pivot Explained
