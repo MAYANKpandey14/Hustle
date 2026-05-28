@@ -7,7 +7,7 @@
   "focusOnNewInstance": true,
   "hideStatusBar": "focused",
   "interceptLogging": true,
-  "language": "",
+  "language": "en",
   "macOSOptionKeyPassthrough": true,
   "newInstanceBehavior": "newHorizontalSplit",
   "noticeTimeout": 5,
@@ -15,132 +15,9 @@
   "pinNewInstance": true,
   "preferredRenderer": "webgl",
   "profiles": {
-    "darwinExternalDefault": {
-      "args": [
-        "\"$PWD\""
-      ],
-      "executable": "/System/Applications/Utilities/Terminal.app/Contents/macOS/Terminal",
-      "followTheme": true,
-      "name": "",
-      "platforms": {
-        "darwin": true
-      },
-      "restoreHistory": false,
-      "rightClickAction": "copyPaste",
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {
-        "documentOverride": null
-      },
-      "type": "external"
-    },
-    "darwinIntegratedDefault": {
-      "args": [
-        "--login"
-      ],
-      "executable": "/bin/zsh",
-      "followTheme": true,
-      "name": "",
-      "platforms": {
-        "darwin": true
-      },
-      "pythonExecutable": "python3",
-      "restoreHistory": false,
-      "rightClickAction": "copyPaste",
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {
-        "documentOverride": null
-      },
-      "type": "integrated",
-      "useWin32Conhost": true
-    },
-    "developerConsole": {
-      "followTheme": true,
-      "name": "",
-      "restoreHistory": false,
-      "rightClickAction": "copyPaste",
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {
-        "documentOverride": null
-      },
-      "type": "developerConsole"
-    },
-    "linuxExternalDefault": {
+    "eb7dbdb3-ea4d-45fe-bb10-d7183c270126": {
       "args": [],
-      "executable": "xterm",
-      "followTheme": true,
-      "name": "",
-      "platforms": {
-        "linux": true
-      },
-      "restoreHistory": false,
-      "rightClickAction": "copyPaste",
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {
-        "documentOverride": null
-      },
-      "type": "external"
-    },
-    "linuxIntegratedDefault": {
-      "args": [],
-      "executable": "/bin/sh",
-      "followTheme": true,
-      "name": "",
-      "platforms": {
-        "linux": true
-      },
-      "pythonExecutable": "python3",
-      "restoreHistory": false,
-      "rightClickAction": "copyPaste",
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {
-        "documentOverride": null
-      },
-      "type": "integrated",
-      "useWin32Conhost": true
-    },
-    "win32ExternalDefault": {
-      "args": [],
-      "executable": "C:\\Windows\\System32\\cmd.exe",
-      "followTheme": true,
-      "name": "",
-      "platforms": {
-        "win32": true
-      },
-      "restoreHistory": false,
-      "rightClickAction": "copyPaste",
-      "successExitCodes": [
-        "0",
-        "SIGINT",
-        "SIGTERM"
-      ],
-      "terminalOptions": {
-        "documentOverride": null
-      },
-      "type": "external"
-    },
-    "win32IntegratedDefault": {
-      "args": [],
-      "executable": "C:\\Windows\\System32\\cmd.exe",
+      "executable": "powershell",
       "followTheme": true,
       "name": "",
       "platforms": {
@@ -159,9 +36,29 @@
       },
       "type": "integrated",
       "useWin32Conhost": true
+    },
+    "ca1d3237-7a4f-45bc-95bb-f706fef2ebc2": {
+      "args": [],
+      "executable": "powershell",
+      "followTheme": true,
+      "name": "",
+      "platforms": {
+        "win32": true
+      },
+      "restoreHistory": false,
+      "rightClickAction": "copyPaste",
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {
+        "documentOverride": null
+      },
+      "type": "external"
     }
   },
-  "defaultProfile": null,
+  "defaultProfile": "eb7dbdb3-ea4d-45fe-bb10-d7183c270126",
   "terminalOptions": {
     "documentOverride": null
   }
