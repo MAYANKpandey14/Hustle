@@ -4,37 +4,36 @@ This file provides context about this Obsidian vault for AI agents.
 
 ## Vault Overview
 
-This vault is a specialized knowledge base primarily focused on **Indian geopolitics, defense strategy, and international relations**. It serves as a repository for deep-dive analyses on regional security, military procurement, and global supply chains, while also housing resources for professional sales skills and personal growth.
+This vault functions as a specialized knowledge base and strategic research repository, primarily focused on **Indian geopolitics, defense strategy, and international relations**. It synthesizes deep-dive analysis on regional security, military procurement, and global supply chains with professional development resources in sales psychology and personal optimization.
 
 ## Organization
 
-The vault is organized into three main thematic folders:
+The vault is organized into three distinct thematic folders:
 
-- **GeoPolitics & Def**: This is the most active area, containing strategic analyses and research papers. Notes often use long, descriptive titles that indicate a focus on impact, strategy, and pivot points (e.g., `2026-indo-pak-us-pivot-analysis`). Naming conventions vary between kebab-case and natural language phrases.
-- **Sales Resources**: Focuses on the intersection of psychology and commerce, such as `Improving Sales with Human Psychology`.
-- **Self Mastery**: Dedicated to personal growth and mindset optimization, such as becoming a "high-frequency person."
+- **GeoPolitics & Def/**: The primary area for strategic analyses, research, and policy papers.
+- **Sales Resources/**: Focuses on the intersection of psychology and commerce.
+- **Self Mastery/**: Dedicated to personal growth and mindset optimization.
 
-There is also a root-level **Kanban board** mentioned in previous iterations, suggesting an active workflow for managing ongoing research projects or business tasks.
+Notes use a mix of kebab-case and natural language titles, often framing specific strategic pivots or problems (e.g., `The Tripwire Strategy - US Presence and Pakistan Blackmail`). There is an active workflow for managing research, likely utilizing a Kanban board for tracking progress.
 
 ## Key Topics
 
-- Indian Indo-Pacific and IOR (Indian Ocean Region) Strategy
-- Defense Procurement Shortcomings and Military Infrastructure
-- Global Oil Supply Chain Security and Conflict Impact
-- US-India-Pakistan Trilateral Dynamics (including "Tripwire Strategy" and Tactical Nuclear presence)
-- Sales Psychology and Human Behavior
-- Personal Optimization and High-Frequency Mindset
+- **Indian Indo-Pacific and IOR Strategy**: Focus on regional security architecture and India's position.
+- **Defense Procurement & Infrastructure**: Analysis of systemic shortcomings and military readiness.
+- **US-India-Pakistan Trilateral Dynamics**: Critical focus on the 'Tripwire Strategy', tactical nuclear presence, and regional blackmail tactics.
+- **Global Conflict Impacts**: Specifically regarding global oil supply chains.
+- **Sales Psychology**: Human behavior applied to commerce.
+- **Self Mastery**: High-frequency living and mindset optimization.
 
 ## User Preferences
 
-Mayank prefers a highly analytical and structured approach to research, as evidenced by descriptive file names that frame specific problems or strategic shifts. The focus is consistently on **strategic implications** and systemic impacts rather than just surface-level facts.
+Mayank prefers a highly analytical, data-driven, and structured approach to research. Notes are expected to frame specific strategic shifts rather than surface-level facts, prioritizing cause-and-effect relationships.
 
-Responses should be professional, data-driven, and capable of synthesizing complex geopolitical trends into coherent summaries. The user likely values depth and nuance in analysis, particularly regarding India's positioning in global conflicts.
+Responses should be professional, formal for geopolitical topics, and actionable for sales/self-mastery. The user values depth, nuance, and the ability to connect disparate defense challenges to broader strategic outcomes.
 
 ## Custom Instructions
 
-- When analyzing geopolitical notes, prioritize identifying **India's strategic interests** and regional security impacts.
-- Maintain a formal, analytical tone for items in the GeoPolitics folder, focusing on cause-and-effect relationships.
-- For Sales and Self Mastery notes, focus on extracting **actionable psychological insights** and practical applications.
-- Use [[WikiLinks]] to connect defense procurement challenges with broader strategic goals where relevant.
-- Pay special attention to themes of "nuclear blackmail" and trilateral US-India-Pakistan relations when relevant.
+- **Geopolitical Analysis**: Prioritize identifying India's strategic interests and regional security impacts. Maintain a formal, analytical tone.
+- **Sales and Self Mastery**: Extract actionable psychological insights and practical applications.
+- **Linking**: Use [[WikiLinks]] to connect specific defense procurement challenges to broader strategic goals (e.g., connecting a procurement failure to a specific regional security risk).
+- **Nuance**: Pay special attention to themes of 'nuclear blackmail' and trilateral US-India-Pakistan relations, as these are critical pivot points in current research.

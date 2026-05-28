@@ -106,3 +106,5 @@ The global crude oil supply chain of 2026 is unrecognizable from the one that ex
 - **International Monetary Fund (IMF):** "Impact of Geopolitical Fragmentation on Global Growth (2026)"
 - **Maritime Executive:** "The 2026 Hormuz Crisis and its Impact on Global Tanker Logistics"
 - **Argus Media:** "OPEC+ After the UAE Exit: A New Era of Competition"
+
+

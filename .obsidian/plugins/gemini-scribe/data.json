@@ -1,8 +1,8 @@
 {
   "apiKeySecretName": "obsidian",
-  "chatModelName": "gemini-flash-latest",
-  "summaryModelName": "gemini-flash-latest",
-  "completionsModelName": "gemini-flash-lite-latest",
+  "chatModelName": "gemini-3.1-flash-lite",
+  "summaryModelName": "gemini-3.1-flash-lite",
+  "completionsModelName": "gemini-3.1-flash-lite",
   "imageModelName": "gemini-3.1-pro-preview",
   "summaryFrontmatterKey": "summary",
   "userName": "Mayank Pandey",
@@ -15,7 +15,7 @@
   "modelDiscovery": {
     "enabled": true,
     "autoUpdateInterval": 24,
-    "lastUpdate": 1778170408779,
+    "lastUpdate": 1779966317055,
     "fallbackToStatic": true
   },
   "allowSystemPromptOverride": false,
