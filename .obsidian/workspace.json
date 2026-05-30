@@ -48,61 +48,49 @@
             }
           },
           {
-            "id": "cb6a00c51f8a2e2f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "terminal:terminal",
-              "state": {
-                "terminal:terminal": {
-                  "cwd": "D:\\Hustle",
-                  "focus": false,
-                  "profile": {
-                    "args": [],
-                    "executable": "powershell",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "win32": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
-              },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "Terminal: pwsh in Hustle"
-            }
-          },
-          {
-            "id": "72f8d65084aa1a94",
+            "id": "473a5267cad68107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sales Resources/Psychological and Conversational Triggers That Increase a Prospect's Likelihood to Buy.md",
+                "file": "Business/Competitor Analysis - Jidoka Technologies.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psychological and Conversational Triggers That Increase a Prospect's Likelihood to Buy"
+              "title": "Competitor Analysis - Jidoka Technologies"
+            }
+          },
+          {
+            "id": "7490688747d65a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Jidoka Technologies - Hardware and Software Stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jidoka Technologies - Hardware and Software Stack"
+            }
+          },
+          {
+            "id": "ce02dd0e85e0b19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business/Competitor Analysis - Jidoka Technologies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Competitor Analysis - Jidoka Technologies"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "09dda49e992ebb15",
@@ -270,7 +257,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 517.5
+    "width": 459.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,18 +276,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "72f8d65084aa1a94",
+  "active": "e12a84cfaf4d8601",
   "lastOpenFiles": [
-    "Sales Resources/Pitch Playbook - Selling Computer Vision in Manufacturing.md",
+    "Business/Jidoka Technologies - Hardware and Software Stack.md",
+    "Business/Competitor Analysis - Jidoka Technologies.md",
+    "Business/Jidoka Technologies - Product and Solutions Analysis.md",
+    "Sales Resources/Improving Sales with Human Psychology.md",
+    "Sales Resources/The Sales Conversation Guide.pdf",
     "Sales Resources/Sales Engagement Checklist Template.md",
     "Sales Resources/Psychological and Conversational Triggers That Increase a Prospect's Likelihood to Buy.md",
+    "Sales Resources/Pitch Playbook - Selling Computer Vision in Manufacturing.md",
+    "Business",
+    "gemini-scribe/Agent-Sessions/Agent Session 2026-05-12.md",
+    "gemini-scribe/Agent-Sessions/2026-05-28 Geopolitical Skills and Projections Session.md",
+    "gemini-scribe/Agent-Sessions/2026-05-28 Sales Engagement Checklist.md",
+    "gemini-scribe/Agent-Sessions/2026-05-28 Productivity Strategy Notes.md",
+    "gemini-scribe/Agent-Sessions/2026-05-04 US-Pakistan Nuclear Tripwire Strategy.md",
+    "gemini-scribe/AGENTS.md",
     "gemini-scribe/Skills/resuming-sessions/SKILL.md",
     "gemini-scribe/Skills/conducting-geopolitical-research/SKILL.md",
-    "gemini-scribe/AGENTS.md",
     "GeoPolitics & Def/2026 UAE OPEC Exit Impact Analysis.md",
     "gemini-scribe/Skills/resuming-sessions",
     "gemini-scribe/Skills/conducting-geopolitical-research",
-    "gemini-scribe/Agent-Sessions/2026-05-28 Productivity Strategy Notes.md",
     "GeoPolitics & Def/2026 IMEC Progress and Impact on India.md",
     "gemini-scribe/Skills/Geopolitical-Research/SKILL.md",
     "GeoPolitics & Def/2026 Iran US Conflict Projections and Impact.md",
@@ -313,20 +310,9 @@
     "Self Mastery/How to become so productive it feels illegal.md",
     "Productivity/Untitled.md",
     "Productivity",
-    "gemini-scribe/Agent-Sessions/2026-05-28 Sales Engagement Checklist.md",
-    "Psychology and Religion/Notes on Buddhism - History, Branches, Schools & Key Leaders.md",
-    "GeoPolitics & Def/2026 Indo Pak US Pivot Analysis.md",
     "Psychology and Religion",
-    "GeoPolitics & Def/Pakistan blackmailing US due to American Tactical Nuclear presence.md",
-    "Sales Resources/The Sales Conversation Guide.pdf",
-    "gemini-scribe/Agent-Sessions/Agent Session 2026-05-12.md",
-    "Sales Resources/Improving Sales with Human Psychology.md",
-    "Self Mastery/High-Frequency Living - Weekly Refresher.md",
     "Untitled.base",
-    "gemini-scribe/Agent-Sessions/Agent Session 2026-05-07.md",
-    "GeoPolitics & Def/india-geopolitical-stance-apac-ior.md",
     "Excalidraw",
-    "gemini-scribe/example-prompts.json",
     "Untitled.canvas"
   ]
 }
